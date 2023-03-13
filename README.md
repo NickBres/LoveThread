@@ -6,5 +6,8 @@ App uses Google-Firebase to authenticate users and store their data.
 
 App idea is to connect between two users, one user will create romantic quotes, messages, etc... and other user can see them in the app or in widget on the main screen.
 
-<img src="https://user-images.githubusercontent.com/70432147/224794444-fd721a13-158f-42e5-be4e-f082bf1f2e73.png" alt="image description" width="500"/>
+![loveThread](https://user-images.githubusercontent.com/70432147/224795658-0f71c243-b78b-40b5-ad5a-9add7e6a17e5.png)
+
+![connected](https://user-images.githubusercontent.com/70432147/224795851-dfc6bc8e-250b-4c99-8c91-bf8cccffbf83.png)
+
 
