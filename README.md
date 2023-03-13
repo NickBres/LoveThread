@@ -1,6 +1,6 @@
 # LoveThread
 
-The romantic IOS app that I made as a gift for my girldriend, when I started to learn Swift.
+The romantic IOS app that I made as a gift for my girlfriend, when I started to learn Swift.
 
 App uses Google-Firebase to authenticate users and store their data.
 
